@@ -84,35 +84,50 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
+PLACEMENT DATA:
+
 ![Screenshot 2023-09-13 084149](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/f40d603b-0f61-48da-b1e1-87c31d03bd70)
 
+SALARY DATA:
 ![Screenshot 2023-09-13 084405](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/49f917bf-bce0-408e-8f94-d0bc79548d15)
 
-
+CHECKING THE NULL() FUNCTION:]
 
 ![Screenshot 2023-09-13 084602](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/a22dfd91-b344-4266-91a0-2cd757a3623e)
 
+DATA DUPLICATE:
 
 ![Screenshot 2023-09-13 084637](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/861c970b-ffeb-4246-af60-913e8388dea4)
 
+PRINT DATA:
 
 ![Screenshot 2023-09-13 084749](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/d30f3eca-3148-47df-85b8-5896fb036250)
 
+DATA_STATUS:
+
 ![Screenshot 2023-09-13 084841](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/2f05d218-3b79-4c0e-a69b-407d74f9711d)
+
+DATA_STATUS:
 
 ![Screenshot 2023-09-13 084914](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/cea77cd5-ea38-4687-9f1a-a42ce7776821)
 
+Y_PREDICTION ARRAY:
+
 ![Screenshot 2023-09-13 085227](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/b6773f22-9c30-43b5-a3db-ca652e7b0009)
 
-
+ACCURACY VALUE:
 
 ![Screenshot 2023-09-13 085316](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/0f00fd95-00ee-483c-b333-fc18162a438e)
 
+CONFUSION ARRAY:
 
 ![Screenshot 2023-09-13 085344](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/54627a5d-0db9-440c-a5d5-3f4831edeb03)
 
+CLASSIFICATION REPORT:
 
 ![Screenshot 2023-09-13 085409](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/97e25d65-6436-41c0-9a41-64cd9c457972)
+
+PREDICTION OF LR:
 
 ![Screenshot 2023-09-13 085436](https://github.com/Roselinjovita/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119104296/b7be4b3d-54cd-4472-95cc-189b0f9248a0)
 
